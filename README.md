@@ -1,4 +1,4 @@
-# ninja_id
+# ID_generation
 
 A new Flutter project.
 
